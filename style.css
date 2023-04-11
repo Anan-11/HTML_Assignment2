@@ -1,0 +1,96 @@
+#my-add{
+        position: relative;
+        left: 80px;
+}
+
+#p-add{
+    position: relative;
+}
+
+#add{
+    position: absolute;
+    
+}
+.options{
+    position: absolute  ;
+    left: 450px;
+}
+td{
+    padding: 7px;
+}
+body{
+    text-align: center  ;
+}
+.my-table{
+    margin-left: auto;
+    margin-right: auto;
+}
+#my-name{
+    position: relative;
+    left: 20px;
+}
+#my-phone{
+    position: relative;
+    left: 10px;
+}
+
+.DOB{
+position: relative;
+right: 31px;
+}
+.dropdown{
+    position: relative;
+    right: 40px;
+}
+.dropdown label{
+    position: relative;
+    right: 10px;
+}
+.hob{
+   
+    position: relative;
+    right: 90px;
+}
+
+.para1
+{position: relative;
+    left: 10px;
+
+}
+#hobby{
+    position: relative;
+    left: -100px;
+}
+#my-city{
+    position: relative;
+    left: 29px;
+}
+#submit{
+    position: relative;
+    right: 29px;
+}
+#reset{
+    position: relative;
+    left: 18px;
+}
+#hb5{
+    position: relative;
+    left: 14px;
+}
+#hb4 {
+    position: relative;
+    left: 2px;
+}
+
+#hb1{
+position: relative;
+right: 7px;
+}
+.options{
+    position: relative;
+    left: -5px;
+}
+#gen{
+    position: relative;
+    right: 23px;
+}
